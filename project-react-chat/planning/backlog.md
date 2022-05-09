@@ -18,8 +18,8 @@
 # could haves
 
 1. a message can have threads of reply
-2. a user can react to messges with emojies
+2. a user can react to messages with emojies
 3. user can login or register to the platform
-4. user can recive a registration confirmation email
-5. User can see if a messga is seen or not
+4. user can receive a registration confirmation email
+5. User can see if a message is seen or not
 6. User can setup the background or environment of his view

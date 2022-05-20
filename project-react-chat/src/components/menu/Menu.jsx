@@ -1,3 +1,6 @@
+
+//this here is me trying things out to find out how things work, this does not work... so working progress (very sloooow)
+
 /*import './menu.css';
 export const Menu = () => {
     return (

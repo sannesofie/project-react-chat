@@ -10,15 +10,15 @@ body {
 }
 
 span {
-  position: absolute;
   left: 50%;
-  top: 20%;
-  transform: translate(-50%, -50%);
-  display: block;
+  transform: translate(-50%, -10%);
+  display: flex;
   color: #cf1b1b;
-  font-size: 100px;
+  font-size: 60px;
   letter-spacing: 8px;
   cursor: pointer;
+  position: relative; 
+  top: 50%;
 }
 
 span::before {

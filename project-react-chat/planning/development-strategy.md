@@ -1,6 +1,6 @@
 # Project Name
 
-<!-- describe your project -->
+- Creating an awesome chat
 
 ---
 
